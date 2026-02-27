@@ -9,5 +9,16 @@ This repository tracks my daily hands-on DevOps learning journey.
 - Docker
 - AWS
 - CI/CD
+- Jenkins
+- Git
+- GitHub
+- GitLab
+- Azure
+- GCP
+- ArgoCD
+- Prometheus
+- Grafana
+- Helm
+
 
 Building production-ready automation skills step by step.
