@@ -2,23 +2,20 @@
 
 This repository tracks my daily hands-on DevOps learning journey.
 
-## Tools Covered
-- Terraform
-- Ansible
-- Kubernetes
-- Docker
+## Core Skills I'm Practicing
+- Linux
+- Shell Scripting
+- Git & GitHub
+
+## Cloud Platforms
 - AWS
-- CI/CD
-- Jenkins
-- Git
-- GitHub
-- GitLab
-- Azure
 - GCP
-- ArgoCD
-- Prometheus
-- Grafana
-- Helm
+- Azure
 
+## Infrastructure & Containers
+- Terraform
+- Docker
+- Kubernetes
 
-Building production-ready automation skills step by step.
+## Goal
+To build strong DevOps fundamentals and gain real-world cloud and infrastructure experience step by step.
